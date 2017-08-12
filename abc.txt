@@ -1,3 +1,1 @@
-step 1 init
-step2 changes in file
-step 3 step 2 in staging whereas step 3 cause untracked
+NewBranch
